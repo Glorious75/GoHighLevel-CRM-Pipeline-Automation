@@ -1,4 +1,4 @@
-# 🚀 GoHighLevel CRM Pipeline & Automation
+#  GoHighLevel CRM Pipeline & Automation
 ### Built with GoHighLevel · CRM · Sales Pipeline · Funnel · Automation · Booking Calendar
 
 ![Status](https://img.shields.io/badge/Status-Live%20%E2%9C%85-brightgreen?style=for-the-badge)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 A fully functional **GoHighLevel CRM, pipeline and automation system** built for a nutrition coaching business — completed as a capstone assignment for the **GHL Automation & CRM Fundamentals** course.
 
@@ -30,7 +30,7 @@ The system takes a cold visitor from first landing page visit all the way throug
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 Cold Visitor
@@ -60,7 +60,7 @@ Gloria_N Sales Pipeline (CRM)
 
 ---
 
-## 👥 Task 1 — Contacts & CRM Setup
+##  Task 1 — Contacts & CRM Setup
 
 **10 contacts manually added** to GoHighLevel with 4 fields each:
 
@@ -76,7 +76,7 @@ The sub-account is shared with 20+ classmates. The tag uniquely identifies conta
 
 ---
 
-## 🔍 Task 2 — Smart List
+##  Task 2 — Smart List
 
 **Smart List Name:** `Gloria Njorteah Leads`
 
@@ -91,7 +91,7 @@ A Smart List is a saved, dynamic filter in GHL that automatically updates whenev
 
 ---
 
-## 🏷️ Task 3 — Custom Fields
+##  Task 3 — Custom Fields
 
 **3 custom dropdown fields** created in GHL Settings → Custom Fields (Object: Contact):
 
@@ -112,7 +112,7 @@ A Smart List is a saved, dynamic filter in GHL that automatically updates whenev
 
 ---
 
-## 📊 Task 4 — Sales Pipeline
+##  Task 4 — Sales Pipeline
 
 **Pipeline Name:** `Gloria_N Sales Pipeline`
 
@@ -129,7 +129,7 @@ A 4-stage pipeline tracking the full lead journey from opt-in to closed client:
 
 ---
 
-## 🔗 Task 5 — 3-Step Lead Funnel
+##  Task 5 — 3-Step Lead Funnel
 
 **Funnel Name:** `GloriaN_Nutrition Coaching Lead Funnel`
 Built using a prebuilt template — customised for nutrition coaching.
@@ -144,7 +144,7 @@ Built using a prebuilt template — customised for nutrition coaching.
 
 ---
 
-## 📝 Task 6 — Form & Booking Calendar
+##  Task 6 — Form & Booking Calendar
 
 ### 6a — Opt-in Form
 **Form Name:** `GloriaN Nutrition Coaching — Free Consultation Form`
@@ -177,7 +177,7 @@ Built using a prebuilt template — customised for nutrition coaching.
 
 ---
 
-## ⚡ Task 7 — Automation Workflow
+##  Task 7 — Automation Workflow
 
 **Workflow Name:** `Gloria_N Welcome Automation`
 **Trigger:** Gloria_N Registration Form Submitted
@@ -224,7 +224,7 @@ proving automatic pipeline progression
 
 ---
 
-## 📋 Assignment Summary
+##  Assignment Summary
 
 | Task | Deliverable | Status |
 |---|---|---|
@@ -239,7 +239,7 @@ proving automatic pipeline progression
 
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 | Area | Manual Process | After GHL Automation |
 |---|---|---|
@@ -253,7 +253,7 @@ proving automatic pipeline progression
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Role |
 |---|---|
@@ -268,7 +268,7 @@ proving automatic pipeline progression
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ```
 ghl-crm-pipeline-automation/
@@ -290,7 +290,7 @@ ghl-crm-pipeline-automation/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 | Feature | Description |
 |---|---|
@@ -303,7 +303,7 @@ ghl-crm-pipeline-automation/
 
 ---
 
-## 👩🏾‍💻 About the Builder
+##  About the Builder
 
 **Gloria Njorteah** — Strategic Business Analyst & AI Automation Specialist
 
